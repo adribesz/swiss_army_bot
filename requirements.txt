@@ -1,0 +1,12 @@
+python-telegram-bot==20.7
+python-dotenv==1.0.0
+Pillow>=9.5.0
+opencv-python>=4.8.0
+numpy>=1.24.3
+easyocr>=1.7.0
+translate==3.6.1
+vosk>=0.3.45
+soundfile>=0.12.1
+pydub>=0.25.1
+librosa>=0.10.1
+SQLAlchemy>=2.0.23
